@@ -1,0 +1,10 @@
+C:\Users\מחשב\Documents\xmlTAble\xmlTAble\bin\Debug\xmlTAble.exe.config
+C:\Users\מחשב\Documents\xmlTAble\xmlTAble\bin\Debug\xmlTAble.exe
+C:\Users\מחשב\Documents\xmlTAble\xmlTAble\bin\Debug\xmlTAble.pdb
+C:\Users\מחשב\Documents\xmlTAble\xmlTAble\obj\Debug\xmlTAble.csprojResolveAssemblyReference.cache
+C:\Users\מחשב\Documents\xmlTAble\xmlTAble\obj\Debug\xmlTAble.Form1.resources
+C:\Users\מחשב\Documents\xmlTAble\xmlTAble\obj\Debug\xmlTAble.Properties.Resources.resources
+C:\Users\מחשב\Documents\xmlTAble\xmlTAble\obj\Debug\xmlTAble.csproj.GenerateResource.Cache
+C:\Users\מחשב\Documents\xmlTAble\xmlTAble\obj\Debug\xmlTAble.csproj.CoreCompileInputs.cache
+C:\Users\מחשב\Documents\xmlTAble\xmlTAble\obj\Debug\xmlTAble.exe
+C:\Users\מחשב\Documents\xmlTAble\xmlTAble\obj\Debug\xmlTAble.pdb
